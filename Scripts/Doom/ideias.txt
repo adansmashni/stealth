@@ -1,0 +1,15 @@
+- detectar o melhor caminho
+- descobrir onde está
+- percorrer as rails
+- ressar se necessario
+- reparo se necessario
+- dress , insure e outras validacoes
+- armadilhas
+- pentagramas
+- mobiles
+- honor e combate
+
+
+TODO:
+1. completar as posicoes das salas.json
+
